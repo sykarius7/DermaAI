@@ -1,0 +1,10 @@
+streamlit
+tensorflow==2.15.0
+numpy
+PIL
+pickle
+os
+pathlib
+streamlit_authenticator
+google.generativeai
+dotenv
