@@ -1,7 +1,7 @@
 streamlit
 tensorflow==2.15.0
 numpy
-PIL
+pillow
 pickle
 os
 pathlib
