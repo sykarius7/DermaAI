@@ -2,7 +2,6 @@ streamlit
 tensorflow==2.15.0
 numpy
 pillow
-os
 streamlit-authenticator==0.1.5
 google.generativeai
 dotenv
